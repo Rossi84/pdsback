@@ -1,4 +1,13 @@
 Registrazione e login
 =====================
 
-Per usufruire dei servizi del Portale delle segnalazioni è necessario accedere con `SPID <https://www.spid.gov.it/>`_, `Carta d'identità elettronica (CIE) <https://www.cartaidentita.interno.gov.it/>`_ o `eIDAS <https://www.eid.gov.it/>`_ riferito a persona fisica. L'utente al primo accesso dovrà inserire i dati relativi alla propria residenza e i contatti utilizzati per l'invio delle notifiche.
+Per usufruire dei servizi del Portale delle segnalazioni è necessario accedere con `SPID <https://www.spid.gov.it/>`_, `Carta d'identità elettronica (CIE) <https://www.cartaidentita.interno.gov.it/>`_ o `eIDAS <https://www.eid.gov.it/>`_ riferito a persona fisica. 
+
+.. figure:: /media/image.png
+   :align: center
+   :name: link-registrati
+   :alt: Registrazione e login
+
+   Registrazione e login
+
+Per concludere la registrazione e accedere alla homepage cliccare sul tasto **SALVA** (richiede almeno l'inserimento dei dati obbligatori).
