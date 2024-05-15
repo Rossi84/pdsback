@@ -1,10 +1,10 @@
 Dettaglio segnalazioni
 =========================
 
-E' possibile visualizzare il dettaglio della seingola segnalazione cliccando sul pulsante a forma di lente di ingrandimento 
+É possibile visualizzare il dettaglio della seingola segnalazione cliccando sul pulsante a forma di lente di ingrandimento 
 presente in ogni riga della tabella delle segnalazioni.
 
-E' inoltre possibile andare a scaricare i file relativi alla segnalazione cliccando sul pulsante per scaricare, sempre
+É inoltre possibile andare a scaricare i file relativi alla segnalazione cliccando sul pulsante per scaricare, sempre
 presente in ogni riga della tabella delle segnalazioni.
 
 Dettaglio
@@ -31,4 +31,4 @@ nella schermata del dettaglio avrà a possibilità di valutare la segnalazione.
 
    Assegna responsabile
 
-E' inoltre possibile, anche da questa pagina, scaricare il fascicolo documentale cliccando sul pulsante **Download fascicolo documentale**.
+É inoltre possibile, anche da questa pagina, scaricare il fascicolo documentale cliccando sul pulsante **Download fascicolo documentale**.

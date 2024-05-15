@@ -74,7 +74,7 @@ nell'ultima colonna della lista. Dopo di che cliccare sul pulsante con icona di 
 
 Ricerca utenti
 --------------
-E\' possibile effettuare una ricerca degli utenti presenti nel sistema. Per farlo bisogna cliccare sul pulsante **Ricerca+** presente 
+É possibile effettuare una ricerca degli utenti presenti nel sistema. Per farlo bisogna cliccare sul pulsante **Ricerca+** presente 
 nella pagina di visualizzazione degli utenti. Dopo di che si può andare a inserire i parametri di ricerca e cliccare sul pulsante **Cerca**.
 
 .. figure:: /media/image.png

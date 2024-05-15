@@ -16,7 +16,7 @@ all'unità organizzativa di appartenenza dell'utente.
 Esportazione
 ------------
 
-E' possibile esportare la lista delle segnalazioni in formato *Excel*.
+É possibile esportare la lista delle segnalazioni in formato *Excel*.
 Per esportare la lista delle segnalazioni è sufficiente cliccare sul pulsante *Esporta*.
 
 .. figure:: /media/image.png
@@ -29,7 +29,7 @@ Per esportare la lista delle segnalazioni è sufficiente cliccare sul pulsante *
 Ricerca
 -------
 
-E' possibile effettuare una ricerca all'interno della lista delle segnalazioni.
+É possibile effettuare una ricerca all'interno della lista delle segnalazioni.
 Per effettuare una ricerca è sufficiente cliccare sul pulsante *Ricerca* e inserire i filtri di ricerca desiderati. Dopodiché
 cliccare sul pulsante *Cerca*.
 
