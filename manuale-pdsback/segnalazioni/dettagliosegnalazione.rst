@@ -18,8 +18,8 @@ Dettaglio
 ---------
 
 Il dettaglio della segnalazione è composto da una tabella che riporta tutte le informazioni relative alla segnalazione.
-Inoltre, è possibile visualizzare il fascicolo documentale relativo alla segnalazione cliccando sul pulsante **Fascicolo
-documentale**.
+Inoltre, è possibile visualizzare il fascicolo documentale relativo alla segnalazione cliccando sul pulsante **FASCICOLO
+DOCUMENTALE**.
 
 .. figure:: /media/image.png
    :align: center
@@ -38,4 +38,4 @@ nella schermata del dettaglio avrà a possibilità di valutare la segnalazione.
 
    Assegna responsabile
 
-É inoltre possibile, anche da questa pagina, scaricare il fascicolo documentale cliccando sul pulsante **Download fascicolo documentale**.
+É inoltre possibile, anche da questa pagina, scaricare il fascicolo documentale cliccando sul pulsante **DOWNLOAD FASCICOLO DOCUMENTALE**.
