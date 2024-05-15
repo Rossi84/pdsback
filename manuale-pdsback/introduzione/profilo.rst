@@ -19,7 +19,7 @@ Da qui è possibile modificare i dati inseriti in fase di registrazione.
 
    Modifica profilo - Dati 
 
-Nella sezione sotto all'anagrafia è possibile andare a gestire le notifiche. Si può quindi attivare e disattivare le notifiche
+Nella sezione sotto all'anagrafica è possibile andare a gestire le notifiche. Si può quindi attivare e disattivare le notifiche
 per i diversi tipi di evento.
 
 .. figure:: /media/image.png
