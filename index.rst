@@ -13,6 +13,7 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
   manuale-pdsback/introduzione.rst
   manuale-pdsback/utentieruoli.rst
   manuale-pdsback/segnalazioni.rst
+  manuale-pdsback/configurazione.rst
   manuale-pdsback/faq.rst
   manuale-pdsback/releases-notes.rst
   
