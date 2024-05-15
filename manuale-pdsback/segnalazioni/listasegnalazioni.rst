@@ -17,7 +17,7 @@ Esportazione
 ------------
 
 É possibile esportare la lista delle segnalazioni in formato *Excel*.
-Per esportare la lista delle segnalazioni è sufficiente cliccare sul pulsante *Esporta*.
+Per esportare la lista delle segnalazioni è sufficiente cliccare sul pulsante **Esporta**.
 
 .. figure:: /media/image.png
    :align: center
@@ -30,8 +30,8 @@ Ricerca
 -------
 
 É possibile effettuare una ricerca all'interno della lista delle segnalazioni.
-Per effettuare una ricerca è sufficiente cliccare sul pulsante *Ricerca* e inserire i filtri di ricerca desiderati. Dopodiché
-cliccare sul pulsante *Cerca*.
+Per effettuare una ricerca è sufficiente cliccare sul pulsante **Ricerca** e inserire i filtri di ricerca desiderati. Dopodiché
+cliccare sul pulsante **Cerca**.
 
 .. figure:: /media/image.png
    :align: center

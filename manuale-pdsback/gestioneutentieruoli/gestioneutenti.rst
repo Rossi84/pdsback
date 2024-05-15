@@ -1,8 +1,8 @@
 Gestione utenti
 ==============
 
-In questa pagina viene mostrata la lista degli utenti present nel sistema. In particolare
-il *Superadmin* e l'*Amministratore* possono visualizzare la lista di tutti gli utenti indipendentemente dall'unità organizzativa di 
+In questa pagina viene mostrata la lista degli utenti presenti nel sistema. In particolare
+il *Superadmin* e l' *Amministratore* possono visualizzare la lista di tutti gli utenti indipendentemente dall'unità organizzativa di 
 appartenenza e possono andare a modificarli. 
 Gli utenti di tipo *Direttore* e *Coordinatore* possono visualizzare solo gli utenti appartenenti alla 
 loro unità organizzativa e possono andare a modificarli, rispettando sempre l'assegnazione dei ruoli in base alla gerarchia.

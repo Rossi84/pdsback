@@ -1,11 +1,18 @@
 Dettaglio segnalazioni
 =========================
 
-É possibile visualizzare il dettaglio della seingola segnalazione cliccando sul pulsante a forma di lente di ingrandimento 
+É possibile visualizzare il dettaglio della singola segnalazione cliccando sul pulsante a forma di lente di ingrandimento 
 presente in ogni riga della tabella delle segnalazioni.
 
 É inoltre possibile andare a scaricare i file relativi alla segnalazione cliccando sul pulsante per scaricare, sempre
 presente in ogni riga della tabella delle segnalazioni.
+
+.. figure:: /media/image.png
+   :align: center
+   :name: dettaglio-segnalazione
+   :alt: Dettaglio segnalazione
+
+   Dettaglio segnalazione
 
 Dettaglio
 ---------
