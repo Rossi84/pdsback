@@ -8,7 +8,7 @@ In questa sezione vengono elencate le tipologie territorio.
    :name: operatori
    :alt: Tipologie territorio
 
-    Tipologie territorio
+   Tipologie territorio
 
 Aggiungi tipologia territorio
 ------------------
@@ -21,7 +21,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-tipologia-territorio
    :alt: Aggiungi Tipologia territorio
 
-    Aggiungi Tipologia territorio
+   Aggiungi Tipologia territorio
 
 Modificare Tipologia territorio
 ----------------------
@@ -34,7 +34,7 @@ Modificare i dati della tipologia territorio e cliccare su **Salva**.
    :name: modifica-opertore
    :alt: Modifica Tipologia territorio
 
-    Modifica Tipologia territorio
+   Modifica Tipologia territorio
 
 Disattivare Tipologia territorio
 ----------------------

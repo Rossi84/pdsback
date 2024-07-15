@@ -8,7 +8,7 @@ In questa sezione vengono elencate le unità organizzative coinvolte.
    :name: unita-organizzative
    :alt: Unità Organizzative
 
-    Unità Organizzative
+   Unità Organizzative
 
 Aggiungere una nuova unità organizzativa
 ----------------------------------------
@@ -21,7 +21,7 @@ Inserire il nome dell'unità organizzativa, opzionalmente una descrizione, e cli
    :name: aggiungi-unita-organizzativa
    :alt: Aggiungi Unità Organizzativa
 
-    Aggiungi Unità Organizzativa
+   Aggiungi Unità Organizzativa
 
 Modificare un'unità organizzativa
 ---------------------------------
@@ -34,4 +34,4 @@ Modificare il nome e/o la descrizione dell'unità organizzativa e cliccare su **
    :name: modifica-unita-organizzativa
    :alt: Modifica Unità Organizzativa
 
-    Modifica Unità Organizzativa
+   Modifica Unità Organizzativa
