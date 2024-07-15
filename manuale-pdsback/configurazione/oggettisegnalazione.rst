@@ -8,7 +8,7 @@ In questa sezione vengono elencati gli oggetti.
    :name: oggetti
    :alt: Oggetti
 
-    Oggetti
+   Oggetti
 
 Aggiungi oggetto
 ------------------
@@ -21,7 +21,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-oggetto
    :alt: Aggiungi Oggetto
 
-    Aggiungi Oggetto
+   Aggiungi Oggetto
 
 Modificare Oggetto
 ----------------------
@@ -34,7 +34,7 @@ Modificare i dati dell'oggetto e cliccare su **Salva**.
    :name: modifica-opertore
    :alt: Modifica Oggetto
 
-    Modifica Oggetto
+   Modifica Oggetto
 
 Disattivare Oggetto
 ----------------------
@@ -58,7 +58,7 @@ Per visualizzare i suboggetti di un oggetto cliccare sul pulsante **Suboggetti**
    :name: suboggetti
    :alt: Suboggetti
 
-    Suboggetti
+   Suboggetti
 
 Aggiungi suboggetto
 -------------------
@@ -71,7 +71,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-suboggetto
    :alt: Aggiungi Suboggetto
 
-    Aggiungi Suboggetto
+   Aggiungi Suboggetto
 
 Modificare suboggetto
 ----------------------
@@ -84,7 +84,7 @@ Modificare i dati del suboggetto e cliccare su **Salva**.
    :name: modifica-suboggetto
    :alt: Modifica Suboggetto
 
-    Modifica Suboggetto
+   Modifica Suboggetto
 
 Disattivare suboggetto
 ----------------------

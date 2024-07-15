@@ -21,7 +21,7 @@ Modificare i dati e cliccare su **Salva**.
    :name: modifica-modello
    :alt: Modifica Modello
 
-    Modifica Modello
+   Modifica Modello
 
 Visualizzare versione modello
 ---------------------------------
@@ -34,4 +34,4 @@ al modello di cui si vuole visualizzare la versione.
    :name: versioni-modello
    :alt: Versioni Modello
 
-    Versioni Modello
+   Versioni Modello

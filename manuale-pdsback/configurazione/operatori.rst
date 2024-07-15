@@ -8,7 +8,7 @@ In questa sezione vengono elencati gli operatori.
    :name: operatori
    :alt: Operatori
 
-    Operatori
+   Operatori
 
 Aggiungi operatore
 ------------------
@@ -21,7 +21,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-operatore
    :alt: Aggiungi Operatore
 
-    Aggiungi Operatore
+   Aggiungi Operatore
 
 Modificare Operatore
 ----------------------
@@ -34,7 +34,7 @@ Modificare i dati dell'operatore e cliccare su **Salva**.
    :name: modifica-opertore
    :alt: Modifica Operatore
 
-    Modifica Operatore
+   Modifica Operatore
 
 Disattivare Operatore
 ----------------------

@@ -8,7 +8,7 @@ In questa sezione vengono elencate le tipologie spedizione.
    :name: operatori
    :alt: Tipologie spedizione
 
-    Tipologie spedizione
+   Tipologie spedizione
 
 Aggiungi tipologia spedizione
 ------------------
@@ -21,7 +21,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-tipologia-spedizione
    :alt: Aggiungi Tipologia spedizione
 
-    Aggiungi Tipologia spedizione
+   Aggiungi Tipologia spedizione
 
 Modificare Tipologia spedizione
 ----------------------
@@ -34,7 +34,7 @@ Modificare i dati della tipologia spedizione e cliccare su **Salva**.
    :name: modifica-opertore
    :alt: Modifica Tipologia spedizione
 
-    Modifica Tipologia spedizione
+   Modifica Tipologia spedizione
 
 Disattivare Tipologia spedizione
 ----------------------

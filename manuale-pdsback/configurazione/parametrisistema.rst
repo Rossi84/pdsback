@@ -12,6 +12,6 @@ Oltre a questo è possibile andare a settare le etichette per la lingua, sia per
    :name: parametri-sistema
    :alt: Privacy e etichette
 
-    Privacy e etichette
+   Privacy e etichette
 
 Una volta apportate le modifiche è necessario cliccare sul pulsante **Salva**.

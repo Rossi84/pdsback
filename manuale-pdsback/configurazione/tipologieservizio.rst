@@ -8,7 +8,7 @@ In questa sezione vengono elencate le tipologie servizio.
    :name: operatori
    :alt: Tipologie servizio
 
-    Tipologie servizio
+   Tipologie servizio
 
 Aggiungi tipologia servizio
 ------------------
@@ -21,7 +21,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-tipologia-servizio
    :alt: Aggiungi Tipologia servizio
 
-    Aggiungi Tipologia servizio
+   Aggiungi Tipologia servizio
 
 Modificare Tipologia servizio
 ----------------------
@@ -34,7 +34,7 @@ Modificare i dati della tipologia servizio e cliccare su **Salva**.
    :name: modifica-opertore
    :alt: Modifica Tipologia servizio
 
-    Modifica Tipologia servizio
+   Modifica Tipologia servizio
 
 Disattivare Tipologia servizio
 ----------------------

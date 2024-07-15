@@ -8,7 +8,7 @@ In questa sezione vengono elencate le tipologie attivazione servizio.
    :name: operatori
    :alt: Tipologie attivazione servizio
 
-    Tipologie attivazione servizio
+   Tipologie attivazione servizio
 
 Aggiungi tipologia attivazione servizio
 ------------------
@@ -21,7 +21,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-tipologia-attivazione servizio
    :alt: Aggiungi Tipologia attivazione servizio
 
-    Aggiungi Tipologia attivazione servizio
+   Aggiungi Tipologia attivazione servizio
 
 Modificare Tipologia attivazione servizio
 ----------------------
@@ -34,7 +34,7 @@ Modificare i dati della tipologia attivazione servizio e cliccare su **Salva**.
    :name: modifica-opertore
    :alt: Modifica Tipologia attivazione servizio
 
-    Modifica Tipologia attivazione servizio
+   Modifica Tipologia attivazione servizio
 
 Disattivare Tipologia attivazione servizio
 ----------------------

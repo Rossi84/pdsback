@@ -8,7 +8,7 @@ In questa sezione vengono elencati gli stati utenza.
    :name: stati-utenza
    :alt: Stati utenza
 
-    Stati utenza
+   Stati utenza
 
 Aggiungi stato utenza
 ------------------
@@ -21,7 +21,7 @@ Inserire i dati richiesti e cliccare su **Salva**.
    :name: aggiungi-stato-utenza
    :alt: Aggiungi Stato utenza
 
-    Aggiungi Stato utenza
+   Aggiungi Stato utenza
 
 Modificare Stato utenza
 ----------------------
@@ -34,7 +34,7 @@ Modificare i dati dell'stato utenza e cliccare su **Salva**.
    :name: modifica-stato-utenza
    :alt: Modifica Stato utenza
 
-    Modifica Stato utenza
+   Modifica Stato utenza
 
 Disattivare Stato utenza
 ----------------------
