@@ -7,7 +7,7 @@ presente in ogni riga della tabella delle segnalazioni.
 É inoltre possibile andare a scaricare i file relativi alla segnalazione cliccando sul pulsante per scaricare, sempre
 presente in ogni riga della tabella delle segnalazioni.
 
-.. figure:: /media/image.png
+.. figure:: /media/dettagliosegnalazioni.png
    :align: center
    :name: dettaglio-segnalazione
    :alt: Dettaglio segnalazione
@@ -21,7 +21,7 @@ Il dettaglio della segnalazione è composto da una tabella che riporta tutte le 
 Inoltre, è possibile visualizzare il fascicolo documentale relativo alla segnalazione cliccando sul pulsante **FASCICOLO
 DOCUMENTALE**.
 
-.. figure:: /media/image.png
+.. figure:: /media/fascicolodocumentale.png
    :align: center
    :name: fascicolo-documentale
    :alt: Fascicolo documentale
@@ -31,7 +31,7 @@ DOCUMENTALE**.
 A seconda del ruolo sarà presente la possibilita di assegnare alla segnalazione un responsabile, che a sua volta 
 nella schermata del dettaglio avrà a possibilità di valutare la segnalazione.
 
-.. figure:: /media/image.png
+.. figure:: /media/assegnaresponsabile.png
    :align: center
    :name: assegna-responsabile
    :alt: Assegna responsabile
