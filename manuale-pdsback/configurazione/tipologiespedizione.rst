@@ -3,7 +3,7 @@ Tipologie spedizione
 
 In questa sezione vengono elencate le tipologie spedizione.
 
-.. figure:: /media/listatipologiespedizione.png
+.. figure:: /media/listatipologiaspedizione.png
    :align: center
    :name: operatori
    :alt: Tipologie spedizione

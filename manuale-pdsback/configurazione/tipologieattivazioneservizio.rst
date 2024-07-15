@@ -3,7 +3,7 @@ Tipologie attivazione servizio
 
 In questa sezione vengono elencate le tipologie attivazione servizio.
 
-.. figure:: /media/listatipologiaattivazioneservizio.png
+.. figure:: /media/listatipologieattivazioneservizio.png
    :align: center
    :name: operatori
    :alt: Tipologie attivazione servizio

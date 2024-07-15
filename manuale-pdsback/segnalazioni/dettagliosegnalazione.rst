@@ -7,7 +7,7 @@ presente in ogni riga della tabella delle segnalazioni.
 É inoltre possibile andare a scaricare i file relativi alla segnalazione cliccando sul pulsante per scaricare, sempre
 presente in ogni riga della tabella delle segnalazioni.
 
-.. figure:: /media/dettagliosegnalazioni.png
+.. figure:: /media/dettagliosegnalazione.png
    :align: center
    :name: dettaglio-segnalazione
    :alt: Dettaglio segnalazione

@@ -29,7 +29,7 @@ Visualizzare versione modello
 Per visualizzare la versione di un modello, cliccare sul pulsante **Versioni** presente nella riga corrispondente 
 al modello di cui si vuole visualizzare la versione.
 
-.. figure:: /media/versionimodello.png
+.. figure:: /media/versionemodello.png
    :align: center
    :name: versioni-modello
    :alt: Versioni Modello

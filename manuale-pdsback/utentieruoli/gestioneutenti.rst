@@ -69,7 +69,7 @@ Ricerca utenti
 É possibile effettuare una ricerca degli utenti presenti nel sistema. Per farlo bisogna cliccare sul pulsante **RICERCA+** presente 
 nella pagina di visualizzazione degli utenti. Dopo di che si può andare a inserire i parametri di ricerca e cliccare sul pulsante **CERCA**.
 
-.. figure:: /media/ricercautente.png
+.. figure:: /media/ricercautenti.png
    :align: center
    :name: ricerca-utenti
    :alt: Ricerca utenti

@@ -16,7 +16,7 @@ Aggiungere una nuova unità organizzativa
 Per aggiungere una nuova unità organizzativa, cliccare sul pulsante **Aggiungi**.
 Inserire il nome dell'unità organizzativa, opzionalmente una descrizione, e cliccare su **Salva**.
 
-.. figure:: /media/aggiuntiunitaorganizzativa.png
+.. figure:: /media/aggiuniunitaorganizzativa.png
    :align: center
    :name: aggiungi-unita-organizzativa
    :alt: Aggiungi Unità Organizzativa
