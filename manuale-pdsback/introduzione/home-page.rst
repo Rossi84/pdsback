@@ -5,7 +5,7 @@ La prima pagina aperta dopo la login costituisce la Home page o pagina principal
 
 In questa pagina, a seconda del ruolo ricoperto dall'utente loggato, vengono visualizzate le funzionalità disponibili.
 
-.. figure:: /media/image.png
+.. figure:: /media/homepage.png
    :align: center
    :name: home page
    :alt: Home page

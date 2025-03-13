@@ -7,7 +7,7 @@ presente in ogni riga della tabella delle segnalazioni.
 É inoltre possibile andare a scaricare i file relativi alla segnalazione cliccando sul pulsante per scaricare, sempre
 presente in ogni riga della tabella delle segnalazioni.
 
-.. figure:: /media/image.png
+.. figure:: /media/dettagliosegnalazione.png
    :align: center
    :name: dettaglio-segnalazione
    :alt: Dettaglio segnalazione
@@ -21,7 +21,7 @@ Il dettaglio della segnalazione è composto da una tabella che riporta tutte le 
 Inoltre, è possibile visualizzare il fascicolo documentale relativo alla segnalazione cliccando sul pulsante **FASCICOLO
 DOCUMENTALE**.
 
-.. figure:: /media/image.png
+.. figure:: /media/fascicolodocumentale.png
    :align: center
    :name: fascicolo-documentale
    :alt: Fascicolo documentale
@@ -35,7 +35,7 @@ Assegnazione responsabile
 
 Per gli utenti con ruolo *Direttore* e *Coordinatore* sarà presente la possibilita di assegnare alla segnalazione un responsabile. Il responsabile è colui che potrà agire sulla segnalazione e procedere al flusso di lavorazione.
 
-.. figure:: /media/image.png
+.. figure:: /media/assegnaresponsabile.png
    :align: center
    :name: assegna-responsabile
    :alt: Assegna responsabile
