@@ -1,5 +1,5 @@
 Parametri di sistema
-=====================
+====================
 
 In questa sezione è possibile andare a visualizzare i file della privacy per il *front-office* e il *back-office*.
 

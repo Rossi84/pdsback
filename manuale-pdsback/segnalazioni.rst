@@ -10,6 +10,5 @@ ruolo dell'utente.
   :caption: Segnalazioni
 
   segnalazioni/listasegnalazioni.rst
-  segnalazione/funzionisegnalazione.rst
   segnalazioni/dettagliosegnalazione.rst
   
