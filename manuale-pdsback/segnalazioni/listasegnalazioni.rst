@@ -1,10 +1,10 @@
 Lista segnalazioni
 ==================
 
-In questa sezione è possibile visualizzare la lista delle segnalazioni effettuate dagli utenti.
-Le segnalazioni che verranno mostrate dipenderanno dal ruolo dell'utente loggato. Nel caso di *superadmin*
-e *amministratore* verranno mostrate tutte le segnalazioni, altrimenti verranno mostrate solo le segnalazioni relative 
-all'unità organizzativa di appartenenza dell'utente.
+In questa sezione è possibile visualizzare una o più liste di segnalazioni effettuate dagli utenti.
+Le liste di segnalazioni che verranno mostrate dipenderanno dal ruolo dell'utente loggato. Nel caso di *Superadmin*
+e *amministratore* verranno mostrate tutte le liste delle segnalazioni (una relativa a ciascuno modulo), altrimenti verranno mostrate solo le liste di segnalazioni gestite 
+dall'unità organizzativa di appartenenza dell'utente.
 
 .. figure:: /media/image.png
    :align: center
@@ -39,3 +39,10 @@ cliccare sul pulsante **Cerca**.
    :alt: Ricerca segnalazioni
 
    Ricerca segnalazioni
+
+Assegnazione responsabile multipla
+----------------------------------
+
+Per gli utenti con ruolo *Direttore* e *Coordinatore* sarà presente la possibilita di assegnare alla segnalazione un responsabile. Il responsabile è colui che potrà agire sulla segnalazione e procedere al flusso di lavorazione.
+Per assegnare il responsabile a più segnalazioni simultaneamente, dalla lista delle segnalazioni, selezionare le checkbox relative alle segnalazioni interessate e poi premere il pulsante **ASSEGNA RESPONSABILE**. 
+Selezionare la persona da assegnare come responsabile e premere il pulsante **ASSEGNA RESPONSABILE**.
