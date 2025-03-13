@@ -16,7 +16,7 @@ Aggiungi tipologia di soggetti
 Per aggiungere una tipologia di soggetti cliccare sul pulsante **Aggiungi**.
 Inserire i dati richiesti e cliccare su **Salva**.
 
-.. figure:: /media/aggiungitipologiasoggetti.png
+.. figure:: /media/aggiungitipologiasoggetto.png
    :align: center
    :name: aggiungi-tipologia-soggetti
    :alt: Aggiungi Tipologia di soggetti
@@ -29,7 +29,7 @@ Modificare Tipologia di soggetti
 Per modificare una tipologia di soggetti cliccare sul pulsante **Modifica** presente nella riga corrispondente alla tipologia di soggetti da modificare.
 Modificare i dati della tipologia di soggetti e cliccare su **Salva**.
 
-.. figure:: /media/modificatipologiasoggetti.png
+.. figure:: /media/modificatipologiasoggetto.png
    :align: center
    :name: modifica-tipologia-soggetti
    :alt: Modifica Tipologia di soggetti
