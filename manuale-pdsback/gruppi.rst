@@ -13,6 +13,5 @@ ruolo dell'utente.
   gruppi/dettagliogruppo.rst
   gruppi/assresponsabile.rst
   gruppi/reddetermina.rst
-  gruppi/notfondatezza.rst
   gruppi/annullamento.rst
   
